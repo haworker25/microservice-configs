@@ -17,7 +17,7 @@ eureka:
   server:
     waitTimeInMsWhenSyncEmpty: 5
       
-      
+#Enable all Spring Boot Actuator endpoints.
 management:
   endpoints:
     web:
